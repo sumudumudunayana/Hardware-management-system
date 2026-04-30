@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 import React from "react";
 import { View, Text, TouchableOpacity } from "react-native";
 import Icon from "react-native-vector-icons/Ionicons";
 import styles from "../styles/components/AppHeaderStyles";
+=======
+import React from 'react';
+import {View, Text, TouchableOpacity} from 'react-native';
+import Icon from 'react-native-vector-icons/Ionicons';
+import styles from '../styles/components/AppHeaderStyles';
+>>>>>>> b3d3555 (app header added)
 
 export default function AppHeader({
   title,
@@ -32,4 +39,8 @@ export default function AppHeader({
       <View style={styles.side} />
     </View>
   );
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b3d3555 (app header added)
