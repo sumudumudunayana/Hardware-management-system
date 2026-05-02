@@ -338,9 +338,13 @@ function MainTabs() {
   );
 }
 
+<<<<<<< HEAD
 /**
  * ROOT NAVIGATION
  */
+=======
+ // ROOT NAVIGATION
+>>>>>>> 768642f (changes done)
 function AppNavigator() {
   const {userToken, loading} = useContext(AuthContext);
 
