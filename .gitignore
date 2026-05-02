@@ -1,4 +1,7 @@
 .DS_Store
+<<<<<<< HEAD
 node_modules/
 frontend/android/.gradle/
 frontend/android/app/build/
+=======
+>>>>>>> 8e01afe (Remove DS_Store and fix conflicts)
